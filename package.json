@@ -1,0 +1,26 @@
+{
+  "name": "rwdp_product-landing-age",
+  "version": "1.0.0",
+  "description": "Responsive Web Design Projects - Build a Product Landing Page(https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azcvcza/RWDP_Product-Landing-age.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azcvcza/RWDP_Product-Landing-age/issues"
+  },
+  "homepage": "https://github.com/azcvcza/RWDP_Product-Landing-age#readme",
+  "devDependencies": {
+    "css-loader": "^2.1.1",
+    "style-loader": "^0.23.1",
+    "svg-url-loader": "^2.3.2",
+    "url-loader": "^2.0.0",
+    "webpack": "^4.33.0"
+  }
+}
